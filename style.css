@@ -1,0 +1,29 @@
+.cal {
+  height: auto;
+}
+.content-center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.row {
+  padding: 5px;
+}
+.row input {
+  width: 37vw;
+  height: 5vh;
+  padding: 0 15px;
+  border: 2px solid gray;
+}
+.button {
+  width: 10vw;
+  padding: 5px;
+  margin-right: 5px;
+}
+.border {
+  border-radius: 50cap;
+  border: none;
+}
+.bold-font {
+  font-weight: 700;
+}
